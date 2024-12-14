@@ -90,13 +90,6 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
 
-<!-- ## 📕 Latest Blog Posts-->
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Сhаt  Web  Аррliсаtiоn  using  РHР](https://www.procodingpg.live/2021/05/Chat-Web-Application-Using-PhP.html) -->
-<!-- - [How to create simple calculator using HTML  СSS  &  jQuery](https://www.procodingpg.live/2020/12/How-to-create-simple-calculator-using-javascript.html) -->
-<!-- - [Simple CSS Responsive Cards Design among Hover Effect](https://www.procodingpg.live/2020/12/simple-css-responsive-cards-design.html) -->
-<!-- BLOG-POST-LIST:END -->
-
 
 ## 🏆 GitHub Trophies
 
